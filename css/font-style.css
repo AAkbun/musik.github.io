@@ -1,0 +1,169 @@
+.text-bold-black-big {
+    font-weight: bold;
+    color: #222222;
+    font-size: 34px;
+}
+
+.text-category {
+    display: flex;
+    justify-content: center;
+    font-size: 8px;
+}
+
+.text-white {
+    color: white
+}
+
+.text-bold-black {
+    font-weight: bold;
+    color: #222222;
+    font-size: 24px;
+}
+.text-bold-black-big2 {
+    font-weight: bold;
+    color: #222222;
+    font-size: 60px;
+}
+
+.text-black {
+    color: #222222;
+    font-size: 24px;
+}
+
+.text-black3 {
+    color: #222222;
+    font-size: 16px;
+}
+.text-bold-black3 {
+    font-weight: bold;
+    color: #222222;
+    font-size: 16px;
+}
+.text-bold-black-minimum {
+    font-weight: bold;
+    color: #222222;
+    font-size: 14px;
+}
+.text-black-min {
+    color: #222222;
+    font-size: 11px;
+}
+
+.text-bold-white {
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+}
+
+.text-bold-white2 {
+    font-weight: bold;
+    color: white;
+    font-size: 16px;
+}
+
+.text-white {
+    color: white;
+    font-size: 20px;
+    opacity: 60%;
+}
+
+.text-bold-big-white {
+    font-weight: bold;
+    color: white;
+    font-size: 34px;
+}
+
+.text-bold-blue-big {
+    font-weight: bold;
+    color: #381DDB;
+    font-size: 34px;
+}
+
+.text-bold-blue-big2 {
+    font-weight: bold;
+    color: blue;
+    font-size: 60px;
+}
+
+.text-bold-blue-mun {
+    font-weight: bold;
+    color: #391ddba2;
+    font-size: 16px;
+}
+
+.text-bold-blue-min {
+    font-weight: bold;
+    color: #391ddbc5;
+    font-size: 16px;
+}
+
+.text-bold-blue-mun {
+    font-weight: bold;
+    color: blue;
+    font-size: 24px;
+}
+
+.text-bold-grey-big {
+    font-weight: bold;
+    color: #22222270;
+    font-size: 34px;
+}
+
+.text-bold-grey-min {
+    font-weight: bold;
+    color: #22222270;
+    font-size: 16px;
+}
+
+.text-grey-min {
+    color: #22222270;
+    font-size: 16px;
+}
+.text-grey-minimum {
+    color: #2222227a;
+    font-size: 11px;
+}
+
+.text-bold-red-min {
+    font-weight: bold;
+    color: #FC5252;
+    font-size: 16px;
+}
+
+.text-bold-red {
+    font-weight: bold;
+    color: #FC5252;
+    font-size: 24px;
+}
+
+.text-bold-red-big {
+    font-weight: bold;
+    color: #FC5252;
+    font-size: 60px;
+}
+
+.text-black2 {
+    font-weight: bold;
+    color: #222222;
+    font-size: 14px;
+}
+
+.text-blue-min {
+    color: #381DDB;
+    font-size: 12px;
+}
+
+.text-light-min {
+    font-size: 10px;
+    color: #6b6b6b;
+}
+
+.font-musik {
+    font-size: 30px;
+}
+
+.text-f {
+    margin-left: 20px;
+    margin-top: 10px;
+
+}

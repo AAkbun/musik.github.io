@@ -1,0 +1,67 @@
+.bar-button {
+    background-color: white;
+    color: blue;
+    border-radius: 12px;
+    border: none;
+    height: 54px;
+    width: 175px;
+    margin-left: 20px;
+}
+
+.or-but {
+    background-color: rgb(250, 72, 7);
+    color: white;
+    border: none;
+    border-radius: 12px;
+height: 56px;
+width: 160px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.bl-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 18px 34px;
+    margin: 0px 100px;
+}
+
+.bl-butt {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    height: 56px;
+    width: 620px;
+}
+
+.bl-button2 {
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    margin: 0px 100px;
+    padding: 18px 34px;
+}
+
+
+.but-blue {
+    border: 1px solid blue;
+    border-radius: 5px;
+    background-color: white;
+    color: blue;
+    width: 162px;
+    height: 56px;
+}
+
+.but-blue2 {
+    border: 1px solid blue;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    width: 162px;
+    height: 56px;
+}

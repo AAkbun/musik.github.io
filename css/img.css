@@ -1,0 +1,148 @@
+.img-quotes {
+    position: relative;
+    bottom: 40px;
+}
+
+.img-quotes-2 {
+    position: relative;
+    top: 35px;
+}
+
+.img-h {
+    height: 40px;
+}
+.img-conf-cat {
+    position: relative;
+    top: -50px;
+    left: 10px;
+}
+.img-cat{
+    position: relative;
+    left: 1115px;
+    bottom: 275px;
+    height: 15px;
+}
+.img-cat-2{
+    position: relative;
+    left: 1235px;
+    bottom: 65px;
+    height: 15px;
+}
+.cont-img {
+    display: flex;
+    justify-content: flex-start;
+    height: 550px;
+
+}
+.img-conf-cont2{
+    position: relative;
+    bottom: 130px;
+}
+.img-conf-cont2-1{
+    position: relative;
+    bottom: 120px;
+    left: 1070px;
+}
+.img-conf-cont2-2{
+    position: relative;
+    right:120px ;
+    bottom: 170px;
+}
+.img-conf-cont2-3{
+    position: relative;
+    left: 880px;
+bottom: 620px;
+height: 100px;
+}
+
+.cont-img2 {
+    height: 700px;
+}
+
+.avatar-img {
+    display: flex;
+    flex-grow: 1;
+    position: relative;
+    bottom: 30px;
+}
+.img-tab-1{
+    position: relative;
+    bottom: 510px;
+    height: 65px;
+}
+.img-tab-2{
+    position: relative;
+    left: 1090px;
+}
+.img-tab-3{
+    position: relative;
+    position: relative;
+    height: 60px;
+    left: 1090px;
+    bottom: 315px;
+}
+.img-tab-4{
+    position: relative;
+    height: 60px;
+    left: 1030px;
+    bottom: 335px;
+}
+.img-price-1{
+    position: relative;
+    bottom: 240px;
+    left: 110px;
+}
+.img-price-2{
+    position: relative;
+    bottom: 454px;
+}
+.img-logo-1{
+    position: relative;
+    height: 80px;
+    left: 1210px;
+    bottom: 300px;
+}
+.img-logo-2{
+    position: relative;
+    bottom: 430px;
+    height: 110px;
+    right: 120px;
+}
+.img-media2 {
+    height: 15px;
+    margin-bottom: 4px;
+    margin-right: 5px;
+}
+
+.img-contact {
+    position: relative;
+    right: 193px;
+    bottom: 178px;
+    height: 150px;
+    margin-bottom: -180px;
+}
+
+.contact-ig2 {
+    position: relative;
+    right: 132px;
+    bottom: 75px;
+    opacity: 80%;
+    height: 90px;
+}
+
+.img-details {
+    height: 20px;
+    margin-bottom: 3px;
+}
+
+.img-right {
+    position: relative;
+    top: 2px;
+    left: 565px;
+}
+
+.img-links {
+    display: flex;
+    gap: 25px;
+    margin-left: 50px;
+}

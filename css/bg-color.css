@@ -1,0 +1,40 @@
+.bg-or {
+    background-color: #db851d42;
+    border-radius: 24px;
+    height: 230px;
+    width: 230px;
+}
+
+.bg-blue {
+    background-color: blue;
+    border-radius: 24px;
+    height: 230px;
+    width: 230px;
+    opacity: 100%;
+}
+
+.bg-pink {
+    background-color: #c000963a;
+    border-radius: 24px;
+    height: 230px;
+    width: 230px;
+}
+
+.bg-blue2 {
+    background-color: #84c4ff94;
+    border-radius: 24px;
+    height: 230px;
+    width: 230px;
+
+}
+
+.text-categoty {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.bg-grey {
+    overflow: hidden;
+    background-color: rgba(128, 128, 128, 0.363);
+}
